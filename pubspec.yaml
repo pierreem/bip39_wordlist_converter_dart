@@ -1,0 +1,16 @@
+name: bip39_wordlist_converter
+description: A library for trnaslating bip39 word sentence from on language to another
+version: 1.0.0
+#homepage: https://primase.fr
+repository: https://github.com/pierreem/
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  bip39: 1.0.6
