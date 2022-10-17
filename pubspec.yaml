@@ -1,5 +1,5 @@
 name: bip39_wordlist_converter
-description: A library for trnaslating bip39 word sentence from on language to another
+description: A library for translating bip39 word sentence from on language to another
 version: 1.0.0
 #homepage: https://primase.fr
 repository: https://github.com/pierreem/

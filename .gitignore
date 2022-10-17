@@ -2,6 +2,9 @@
 .dart_tool/
 .packages
 
+#ignore androidStudio stuff
+.idea/
+
 # Conventional directory for build outputs.
 build/
 
